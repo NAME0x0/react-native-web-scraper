@@ -1,6 +1,4 @@
-/**
- * package.json for React Native Web Scraper
- */
+
 {
   "name": "react-native-web-scraper",
   "version": "1.0.0",
